@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Wassim</h1>
-<h3 align="center">A passionate 🔥 backend developer from France</h3>
+<h3 align="center">A backend developer on fire 🔥 from France</h3>
 
-- 🔭 I’m currently working on the rework of my [portfolio](https://github.com/WassimSss/Portfolio)
+- 🔭 I am currently working on redesigning my [portfolio](https://github.com/WassimSss/Portfolio)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Symfony**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WassimSss/Portfolio](https://github.com/WassimSss/Portfolio)
+
+- 📫 How to reach me **wassimassalmi@gmail.com**
+
+- 📄 Know about my experiences [I graduated from a web and mobile web development school](I graduated from a web and mobile web development school)
+
+- ⚡ Fun fact **developer/backend/search?id=1✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
