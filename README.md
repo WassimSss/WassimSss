@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **wassimassalmi@gmail.com**
 
-- 📄 Know about my experiences [I graduated from a web and mobile web development school](I graduated from a web and mobile web development school)
+- 📄 I graduated from a web and mobile web development school
 
-- ⚡ Fun fact **developer/backend/search?id=1✨**
+- ⚡ **developer/backend/search?id=1✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
