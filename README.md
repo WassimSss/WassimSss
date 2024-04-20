@@ -4,6 +4,7 @@
 Je suis un développeur passionné par la résolution de problèmes et la création de solutions innovantes. Actuellement, je suis engagé dans la formation des développeurs de demain, en leur fournissant les outils nécessaires pour aborder et résoudre efficacement les défis qui se présentent à eux.
 
 Portfolio : [Portfolio](https://www.salmi-wassim.com)
+<br />
 Email : **wassimassalmi@gmail.com**
 
 <h3 align="left">LinkedIn :</h3>
