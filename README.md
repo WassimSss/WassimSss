@@ -7,7 +7,7 @@ Portfolio : [Portfolio](https://www.salmi-wassim.com)
 <br />
 Email : **wassimassalmi@gmail.com**
 
-<h2>Projets récents</h2>
+<h2>Projets</h2>
     <ul>
       <li>MoneyDashboard (En cours) : Une application web en permettant de suivre ses dépenses et ses économies.</li>
       <ul>
