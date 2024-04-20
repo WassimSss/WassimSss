@@ -7,6 +7,20 @@ Portfolio : [Portfolio](https://www.salmi-wassim.com)
 <br />
 Email : **wassimassalmi@gmail.com**
 
+<h2>Projets récents</h2>
+    <ul>
+      <li>MoneyDashboard (En cours) : Une application web en permettant de suivre ses dépenses et ses économies.</li>
+      <ul>
+        <li>Frontend : <a href="https://github.com/WassimSss/money-dashboard-front">Repository</a></li>
+        <li>Backend : <a href="https://github.com/WassimSss/money-dashboard-back">Repository</a></li>
+      </ul>
+      <li>BricoMinute : Une application web crée en groupe permettant de la mise en relation entre particulier et artisans pour des travaux domotiques : </li>
+      <ul>
+        <li>Frontend : <a href="https://github.com/WassimSss/bricominute-frontend">Repository</a></li>
+        <li>Backend : <a href="https://github.com/WassimSss/bricominute-backend">Repository</a></li>
+      </ul>
+    </ul>
+
 <h3 align="left">LinkedIn :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/wassim-salmi-489322224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wassim-salmi-489322224/" height="30" width="40" /></a>
