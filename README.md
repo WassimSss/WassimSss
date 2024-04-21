@@ -14,36 +14,39 @@ Email : **wassimassalmi@gmail.com**
         <li>Frontend : <a href="https://github.com/WassimSss/money-dashboard-front">Repository</a></li>
         <li>Backend : <a href="https://github.com/WassimSss/money-dashboard-back">Repository</a></li>
       </ul>
+        <br/>
       <li>BricoMinute : Une application mobile crée en groupe permettant de la mise en relation entre particulier et artisans pour des travaux domotiques : </li>
       <ul>
         <li>Frontend : <a href="https://github.com/WassimSss/bricominute-frontend">Repository</a></li>
         <li>Backend : <a href="https://github.com/WassimSss/bricominute-backend">Repository</a></li>
       </ul>
+        <br/>
     <li>SymShop : Une site e-commerce fictif en Symfony : </li>
       <ul>
         <li>Frontend & Backend : <a href="https://github.com/WassimSss/sym-shop">Repository</a></li>
       </ul>
+        <br/>
     <li>MuscuProgress : Une application web permettant de rentrer ses exercices de musculation réalisée et son poids pour suivre ses progrès : </li>
       <ul>
         <li>Frontend & Backend : <a href="https://github.com/WassimSss/muscu_progress">Repository</a></li>
       </ul>
-    <li>ExtraVista : Une application web d'import-export qui permet de faire une commande sur différents articles et permet à l'équipe d'administrer ses stocks grâce a différents outils : </li>
-      <ul>
-        <li>Frontend & Backend : <a href="https://github.com/WassimSss/ExtraVista">Repository</a></li>
-      </ul>
+   <br/>
     <li>Morning News : Une application web permettant de se tenir à jour sur différents articles anglais : </li>
       <ul>
         <li>Frontend : <a href="https://github.com/WassimSss/morning_news_front">Repository</a></li>
         <li>Backend : <a href="https://github.com/WassimSss/morning_news_back">Repository</a></li>
       </ul>
+        <br/>
     <li>iqBanger : Un jeu de memory : </li>
       <ul>
         <li>Frontend : <a href="https://github.com/WassimSss/iqBanger">Repository</a></li>
       </ul>
+        <br/>
         <li>Veilleio : Un blog codé en PHP, avec la possibilité de s'inscrire, se connecter, créer et supprimer un article : </li>
       <ul>
         <li>Frontend & Backend : <a href="https://github.com/WassimSss/Veilleio">Repository</a></li>
       </ul>
+        <br/>
     </ul>
 
 <h3 align="left">LinkedIn :</h3>
