@@ -9,7 +9,7 @@ Email : **wassimassalmi@gmail.com**
 
 <h2>Projets</h2>
     <ul>
-      <li>MoneyDashboard (En cours) : Une application web en permettant de suivre ses dépenses et ses économies.</li>
+      <li>MoneyDashboard : Une application web en permettant de suivre ses dépenses et ses économies.</li>
       <ul>
         <li>Frontend : <a href="https://github.com/WassimSss/money-dashboard-front">Repository</a></li>
         <li>Backend : <a href="https://github.com/WassimSss/money-dashboard-back">Repository</a></li>
