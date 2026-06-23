@@ -15,5 +15,5 @@ Mes projets et études de cas sont sur **[salmi-wassim.com](https://www.salmi-wa
  
 [Portfolio](https://www.salmi-wassim.com) · [LinkedIn](https://www.linkedin.com/in/wassim-salmi1/) · [Email](mailto:wassimassalmi@gmail.com)
  
-<sub>Marseille · mobilité Suisse / remote · ouvert aux opportunités</sub>
+<sub>France · mobilité / remote · ouvert aux opportunités</sub>
  
