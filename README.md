@@ -9,7 +9,7 @@ J'interviens sur l'ensemble du cycle de vie applicatif : de la modélisation de 
 **Formation** : Architecte des Systèmes d'Information, spé. Cloud (Epitech, Bac+5 en cours)
  
 La plus grande partie de mon code récent est sous contrat client, donc privé.
-Mes projets et études de cas sont sur **[salmi-wassim.com](https://www.wassimsalmi.com)**.
+Mes projets et études de cas sont sur **[wassimsalmi.com](https://www.wassimsalmi.com)**.
  
 ---
  
